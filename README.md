@@ -5,7 +5,7 @@ This learning project focuses on **responsive UI, clean layout, and production-r
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - HTML5  
 - Tailwind CSS  
 - Font Awesome  
@@ -13,7 +13,7 @@ This learning project focuses on **responsive UI, clean layout, and production-r
 
 ---
 
-## ✨ Features
+## Features
 - Mobile-first, responsive design  
 - Business-focused sections (services, areas, CTA)  
 - Click-to-call & WhatsApp integration  
@@ -23,6 +23,6 @@ This learning project focuses on **responsive UI, clean layout, and production-r
 
 ---
 
-## ▶️ Run Locally
+## Run Locally
 ```bash
 git clone https://github.com/rudradabar/business-website-frontend.git
